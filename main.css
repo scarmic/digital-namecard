@@ -121,6 +121,8 @@ img.profile-pic {
 
 .name-title-company {
 	height: 100%;
+	margin-left: auto;
+    margin-right: auto;
 }
 
 .banner {
