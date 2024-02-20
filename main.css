@@ -142,6 +142,14 @@ img.profile-pic {
 	background-color: white;
 }
 
+.bg-color-blue {
+	background-color: #003264;
+}
+
+.bg-color-red {
+	background-color: #eb0028;
+}
+
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -153,14 +161,14 @@ img.profile-pic {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
     color: #333333;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #575757;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .bottom {
