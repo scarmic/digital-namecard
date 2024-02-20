@@ -1,14 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
-item2.X-ABLabel:_$!<HomePage>!$_
+N:Scarpa;Michele;;;
+FN: Michele Scarpa
+ORG:TIM S.p.A.;
+TITLE:Account Specialist IT e Multicloud\nTriveneto
+EMAIL;type=INTERNET;type=WORK;type=pref:michele.scarpa@telecomitalia.it
+TEL;type=WORK;type=CELL:+39 334 6466342
+ADR;type=WORK;type=pref:;;Via Settima Strada\, 22;Padova;;35122;Italy
+URL:https://www.timenterprise.it/
+BDAY:1976-06-23
 END:VCARD
