@@ -68,6 +68,10 @@ img.profile-pic {
 	overflow: auto;
 }
 
+.cent {
+	justify-content: left;
+}
+
 .col.is-1 {
 	flex: none;
 	width: 10%;
