@@ -127,12 +127,16 @@ img.profile-pic {
 	height: 30%;
 }
 
+.logo-info {
+	height: 10%;
+}
+
 .primary-info {
 	height: 15%;
 }
 
 .secondary-info {
-	height: 8%;
+	height: 6%;
 }
 
 .bg-color-grey {
