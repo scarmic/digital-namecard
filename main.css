@@ -158,7 +158,7 @@ img.profile-pic {
     margin-right: auto;
     justify-content: center;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .text-title-company {
@@ -168,14 +168,14 @@ img.profile-pic {
     margin-right: auto;
     justify-content: center;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .bottom {
